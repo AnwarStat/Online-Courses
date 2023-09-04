@@ -2,7 +2,7 @@
 
 Follow me: <br>
 <p allign="center">
-<a herf="http://facebook.com/anwar.datascientist"> YouTube </a>  |
+<a herf="http://facebook.com/anwar.datascientist"> YouTube </a>  
 <a herf="http://facebook.com/anwar.datascientist"> Facebook </a> |
 <a herf="http://facebook.com/anwar.datascientist"> Twitter </a> |
 <a herf="http://facebook.com/anwar.datascientist">Instragram</a> |
